@@ -1,3 +1,4 @@
 streamlit
 pillow
 numpy
+libtk8.6
