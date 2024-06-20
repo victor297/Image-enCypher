@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image, ImageTk
 import numpy as np
-from io import BytesIO
+from io import BytesIO 
 
 def encrypt_image(original_image, key):
     try:
